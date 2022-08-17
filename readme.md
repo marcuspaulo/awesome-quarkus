@@ -36,7 +36,11 @@ https://quarkus.io/quarkus-workshops/super-heroes/
   
 Hands-On Cloud-Native Applications with Java and Quarkus
   - https://www.packtpub.com/product/hands-on-cloud-native-applications-with-java-and-quarkus/9781838821470
-  
+
+# Podcast
+ - https://www.hipsters.tech/quarkus-hipsters-230/
 
 # Newsletter
  - https://quarkus.io/blog/tag/newsletter/
+
+
