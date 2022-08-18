@@ -1,16 +1,18 @@
-<center>
-   <font size="6"> <b>Awesome Quarkus</b></font>
-</center>
+<h1 style="text-align: center;">
+   <b>Awesome Quarkus</b>
+</h1>
 
-<center>
-  <font size="2"> 
+<h4 style="text-align: center;">
+   <font size="2"> 
     A curated list of awesome things about Quarkus - Supersonic Subatomic Java ecosystem.
   </font>
+</h4>
 
-  <font size="2"> 
+<h4 style="text-align: center;">
+   <font size="2"> 
     Uma lista com curadoria itens relacionados ao ecossistema Quarkus - Supersonic Subatomic Java.
   </font>
-</center>
+</h4>
 
 <br/><br/>
 
