@@ -18,7 +18,7 @@
 
 ### Index / Índices
 
-- [Quarkus Offical Documentation](#quarkus-offical-documentation)
+- [Quarkus Official Documentation](#quarkus-official-documentation)
 - [Workshop](#workshop)
 - [Quarkus Cheat Sheet](#quarkus-cheat-sheet)
 - [Books/Livros](#bookslivros)
@@ -31,7 +31,7 @@
 
 ---
 
-# Quarkus Offical Documentation
+# Quarkus Official Documentation
 
 - [Quarkusio](https://quarkus.io/)
 - [Github](https://github.com/quarkusio)
