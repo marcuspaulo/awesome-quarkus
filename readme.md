@@ -24,7 +24,7 @@
 - [Books/Livros](#bookslivros)
 - [Videos](#videos)
 - [Courses/Cursos](#courses--cursos)
-- [Tutorials / Tutoriais](#tutorials--tutoriais)
+- [Tutorials / Tutoriais](#articles-and-tutorials--artigos-e-tutoriais)
 - [Telegram](#telegram)
 - [Podcast](#podcast)
 - [Newsletter](#newsletter)
@@ -123,7 +123,7 @@
 
   - [Learning Quarkus - Linkedin - Frank P Moley](https://www.linkedin.com/learning/learning-quarkus)
 
-## Tutorials / Tutoriais
+## Articles and Tutorials / Artigos e Tutoriais
 
 - [Quick Java application setup using Kafka messaging - Red Hat](https://developers.redhat.com/articles/2022/08/04/quick-java-application-setup-using-kafka-messaging?sc_cid=7013a00000381tNAAQ)
 
@@ -140,6 +140,8 @@
   - [Tutorial: Quarkus — Simplificando o Hibernate utilizando Panache — criando uma aplicação simples utilizando Quarkus Java + REST + CDI + Panache](https://marcus-paulo.medium.com/tutorial-quarkus-simplificando-o-hibernate-utilizando-panache-criando-uma-aplica%C3%A7%C3%A3o-simples-393134a58073)
 
   - [Tutorial: Criando um CRUD utilizando Quarkus Java + REST + CDI + Panache, Hibernate com Postgres (Docker) + Postman](https://marcus-paulo.medium.com/tutorial-criando-um-crud-utilizando-quarkus-java-rest-cdi-panache-hibernate-com-postgres-59793e0d7162)
+
+  - [Banco do Brasil extracts Open Banking investment data with Quarkus and Kafka By Felipe Henrique Gross Windmoller](https://quarkus.io/blog/banco-do-brasil-open-banking-user-story/)
 
 ## Telegram
  - [Quarkus-br](https://t.me/quarkus_br)
