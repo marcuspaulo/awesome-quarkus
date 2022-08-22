@@ -109,6 +109,8 @@
 
  - [Quarkus Facile : Episode 1 - Introduction](https://www.youtube.com/watch?v=JfEnYZoJu1s)
 
+ - [Quarkus Insights #96: Quarkus Q&A - Quarkusio](https://www.youtube.com/watch?v=kdasoBPOWUQ)
+
 ---
 
 ## Courses / Cursos
@@ -124,6 +126,26 @@
   - [Learning Quarkus - Linkedin - Frank P Moley](https://www.linkedin.com/learning/learning-quarkus)
 
 ## Articles and Tutorials / Artigos e Tutoriais
+
+ - [Quarkus – A convincing Framework - Adesso - By Maurizio Bianchi
+](https://www.adesso.ch/en/news/blog/quarkus-a-convincing-framework.jsp)
+
+ - [Controlling Hibernate Commit programmatically for batch execution on Quarkus - Felipe Henrique Gross Windmoller](https://dev.to/felipewind/controlling-hibernate-commit-programmatically-for-batch-execution-on-quarkus-3fhk)
+
+ - [OpenTelemetry: A Quarkus Superheroes demo of observability - 
+Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-quarkus-superheroes-demo-observability)
+
+ - [API-first development with Quarkus - Roberto Piva](https://www.robertopiva.pro/2022/08/06/quarkus-api-first.html)
+
+ - [Bungee jumping into Quarkus: blindfolded but happy - Délawen - María Arias de Reyna Domínguez
+ - ](https://delawen.com/2022/07/bungee-jumping-into-quarkus/)
+
+ - [Native Images and Quarkus: JVM-less Java - Szabolcs Dékány](https://medium.com/bishop-co/native-images-and-quarkus-jvm-less-java-5d4cd4211e41)
+
+ - [Lightweight and blazing-fast Java app using Quarkus and Redis® - Dewan Ahmed - Aiven
+](https://aiven.io/blog/redis-and-quarkus-app)
+
+ - [KARAVAN PREVIEW RELEASE 3.18 -  Marat Gubaidullin](https://camel.apache.org/blog/2022/08/camel-karavan-3.18.1/)
 
 - [Quick Java application setup using Kafka messaging - Red Hat](https://developers.redhat.com/articles/2022/08/04/quick-java-application-setup-using-kafka-messaging?sc_cid=7013a00000381tNAAQ)
 
