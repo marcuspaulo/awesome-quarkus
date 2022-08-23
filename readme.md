@@ -132,6 +132,8 @@
 
  - [Controlling Hibernate Commit programmatically for batch execution on Quarkus - Felipe Henrique Gross Windmoller](https://dev.to/felipewind/controlling-hibernate-commit-programmatically-for-batch-execution-on-quarkus-3fhk)
 
+ - [Debezium and Quarkus: Change Data Capture Patterns to Avoid Dual-Writes Problems - Alex Soto](https://www.infoq.com/articles/change-data-capture-debezium/?utm_source=email&utm_medium=java&utm_campaign=newsletter&utm_content=08232022)
+
  - [OpenTelemetry: A Quarkus Superheroes demo of observability - 
 Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-quarkus-superheroes-demo-observability)
 
