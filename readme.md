@@ -139,8 +139,7 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
 
  - [API-first development with Quarkus - Roberto Piva](https://www.robertopiva.pro/2022/08/06/quarkus-api-first.html)
 
- - [Bungee jumping into Quarkus: blindfolded but happy - Délawen - María Arias de Reyna Domínguez
- - ](https://delawen.com/2022/07/bungee-jumping-into-quarkus/)
+ - [Bungee jumping into Quarkus: blindfolded but happy - Délawen - María Arias de Reyna Domínguez](https://delawen.com/2022/07/bungee-jumping-into-quarkus/)
 
  - [Native Images and Quarkus: JVM-less Java - Szabolcs Dékány](https://medium.com/bishop-co/native-images-and-quarkus-jvm-less-java-5d4cd4211e41)
 
