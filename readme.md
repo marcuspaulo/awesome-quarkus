@@ -72,6 +72,8 @@
   - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=SQDR34KoC-8)
 
   - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=tWHdkpVagXA)
+  
+  - [Quarkus in Kotlin on Kubernetes 1 - Dev Ops Coach Steve](https://www.youtube.com/watch?v=NEc8PWNKlo0)
 
   - [Kubernetes Native Spring apps on Quarkus by Georgios Andrianakis](https://www.youtube.com/watch?v=9wJm8g83vqA)
 
