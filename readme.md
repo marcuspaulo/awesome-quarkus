@@ -68,6 +68,8 @@
  - [Introduction to Quarkus: "Supersonic Subatomic Java" - Quarkusio](https://www.youtube.com/watch?v=DYcEQs-9sb0)
 
   - [Quarkus why, how and what by Emmanuel Bernard](https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java)
+   
+  - [Uploading Files With Quarkus by Sebastian Daschner - September 07, 2022](https://blog.sebastian-daschner.com/entries/uploading-files-quarkus)
 
   - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=SQDR34KoC-8)
 
@@ -133,6 +135,10 @@
 ](https://www.adesso.ch/en/news/blog/quarkus-a-convincing-framework.jsp)
 
  - [Controlling Hibernate Commit programmatically for batch execution on Quarkus - Felipe Henrique Gross Windmoller](https://dev.to/felipewind/controlling-hibernate-commit-programmatically-for-batch-execution-on-quarkus-3fhk)
+
+- [Monitoring Quarkus Applications with Dashbuilder - William Siqueira - September 6, 2022](https://blog.kie.org/2022/09/monitoring-quarkus-applications-with-dashbuilder.html)
+ 
+- [Generate Helm charts manifests with Quarkus Helm - By Jose Carvajal - August 30, 2022](https://quarkus.io/blog/quarkus-helm/)
 
  - [Debezium and Quarkus: Change Data Capture Patterns to Avoid Dual-Writes Problems - Alex Soto](https://www.infoq.com/articles/change-data-capture-debezium/?utm_source=email&utm_medium=java&utm_campaign=newsletter&utm_content=08232022)
 
