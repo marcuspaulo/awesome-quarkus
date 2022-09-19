@@ -66,6 +66,8 @@
 # Videos
 
  - [Introduction to Quarkus: "Supersonic Subatomic Java" - Quarkusio](https://www.youtube.com/watch?v=DYcEQs-9sb0)
+ 
+ - [Quarkus to OpenShift - Burr Sutter - August 28, 2022](https://www.youtube.com/watch?v=SvbBeP-Jw2w)
 
   - [Quarkus why, how and what by Emmanuel Bernard](https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java)
    
