@@ -65,6 +65,8 @@
 
 # Videos
 
+ - [Quarkus Insights #103: Debezium & Quarkus -- A Match Made in Heaven? by Quarkusio - September, 26, 2022](https://www.youtube.com/watch?v=MQR1SLJVpgM)
+
  - [Introduction to Quarkus: "Supersonic Subatomic Java" - Quarkusio](https://www.youtube.com/watch?v=DYcEQs-9sb0)
  
  - [Quarkus to OpenShift - Burr Sutter - August 28, 2022](https://www.youtube.com/watch?v=SvbBeP-Jw2w)
