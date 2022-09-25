@@ -74,6 +74,8 @@
   - [Quarkus why, how and what by Emmanuel Bernard](https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java)
    
   - [Uploading Files With Quarkus by Sebastian Daschner - September 07, 2022](https://blog.sebastian-daschner.com/entries/uploading-files-quarkus)
+  
+  - [Kafka Content Based Routing with Quarkus, Drools, and Apache Camel by Matteo Mortari, March, 9, 2022 ](https://www.youtube.com/watch?v=nXyKM-xds2M)
 
   - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=SQDR34KoC-8)
 
