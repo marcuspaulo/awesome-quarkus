@@ -135,12 +135,14 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+ - [Creating your first cloud agnostic serverless application with java - by Helber Belmiro - September 22, 2022](https://blog.kie.org/2022/09/creating-your-first-cloud-agnostic-serverless-application-with-java.html)
+ 
+ - [Monitoring Quarkus Applications with Dashbuilder - William Siqueira - September 6, 2022](https://blog.kie.org/2022/09/monitoring-quarkus-applications-with-dashbuilder.html)
+
  - [Quarkus – A convincing Framework - Adesso - By Maurizio Bianchi
 ](https://www.adesso.ch/en/news/blog/quarkus-a-convincing-framework.jsp)
 
  - [Controlling Hibernate Commit programmatically for batch execution on Quarkus - Felipe Henrique Gross Windmoller](https://dev.to/felipewind/controlling-hibernate-commit-programmatically-for-batch-execution-on-quarkus-3fhk)
-
-- [Monitoring Quarkus Applications with Dashbuilder - William Siqueira - September 6, 2022](https://blog.kie.org/2022/09/monitoring-quarkus-applications-with-dashbuilder.html)
  
 - [Generate Helm charts manifests with Quarkus Helm - By Jose Carvajal - August 30, 2022](https://quarkus.io/blog/quarkus-helm/)
 
