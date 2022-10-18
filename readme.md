@@ -65,6 +65,8 @@
 
 # Videos
 
+ - [Microsweeper Demo with Quarkus on Azure Kubernetes Service - by Daniel Oh - on Oct 9, 2022](https://www.youtube.com/watch?v=AcQ15HHPkbE)
+
  - [Quarkus Insights #103: Debezium & Quarkus -- A Match Made in Heaven? by Quarkusio - September, 26, 2022](https://www.youtube.com/watch?v=MQR1SLJVpgM)
 
  - [Introduction to Quarkus: "Supersonic Subatomic Java" - Quarkusio](https://www.youtube.com/watch?v=DYcEQs-9sb0)
@@ -136,6 +138,14 @@
   - [Learning Quarkus - Linkedin - Frank P Moley](https://www.linkedin.com/learning/learning-quarkus)
 
 ## Articles and Tutorials / Artigos e Tutoriais
+
+- [Tutorial: Build a Quarkus web app with Azure App Service on Linux and PostgreSQL by Microsoft Sep 26, 2022](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-quarkus-postgresql-app)
+
+- [Quarkus fundamentals, by Pierre Guimon - on Oct 4](https://dev.to/pierregmn/quarkus-fundamentals-n77)
+
+- [Service discovery using SmallRye Stork with Quarkus by Vimal Kumar - Aug 21, 2022](https://blog.knoldus.com/service-discovery-using-smallrye-stork-with-quarkus/)
+
+ - [Quarkus with Java Virtual Threads - By piotr.minkowski - on  October 6, 2022](https://piotrminkowski.com/2022/10/06/quarkus-with-java-virtual-threads/)
 
  - [Creating your first cloud agnostic serverless application with java - by Helber Belmiro - September 22, 2022](https://blog.kie.org/2022/09/creating-your-first-cloud-agnostic-serverless-application-with-java.html)
  
