@@ -67,6 +67,8 @@
 
 # Videos
 
+ - [Ten Years After: From Java EE 6 to Quarkus and AWS Lambda by Adam Bien, Nov 7, 2022](https://www.youtube.com/watch?v=ErMDoOrzfmU)
+
  - [Microsweeper Demo with Quarkus on Azure Kubernetes Service - by Daniel Oh - on Oct 9, 2022](https://www.youtube.com/watch?v=AcQ15HHPkbE)
 
  - [Quarkus Insights #103: Debezium & Quarkus -- A Match Made in Heaven? by Quarkusio - September, 26, 2022](https://www.youtube.com/watch?v=MQR1SLJVpgM)
@@ -140,6 +142,12 @@
   - [Learning Quarkus - Linkedin - Frank P Moley](https://www.linkedin.com/learning/learning-quarkus)
 
 ## Articles and Tutorials / Artigos e Tutoriais
+
+- [Quarkus Defends REST APIs against Attack by Erik Costlow, Oct 19, 2022](https://www.infoq.com/news/2022/10/quarkus-csrf-defense/)
+
+- [Save Bookmarks to Notion Database with Telegram and Quarkus by Alberto Bonacina, Oct 26, 2022](https://blog.albertobonacina.com/save-bookmarks-to-notion-database-with-telegram-and-quarkus)
+
+- [Using Podman with Quarkus and Testcontainers on MacOS by Stephennimmo - Oct 19, 2022](https://stephennimmo.com/using-podman-with-quarkus-and-testcontainers-on-macos/)
 
 - [Tutorial: Build a Quarkus web app with Azure App Service on Linux and PostgreSQL by Microsoft Sep 26, 2022](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-quarkus-postgresql-app)
 
