@@ -52,7 +52,7 @@
 [Quarkus Cheat Sheet](https://lordofthejars.github.io/quarkus-cheat-sheet/)
 
 ## Books/Livros
-
+ - [Full Stack Quarkus and React By Marc Nuri San Felix, via Packtpub, Nov 2022](https://www.packtpub.com/product/full-stack-quarkus-and-react/9781800562738)
  - [Practicing Quarkus 2.x - by Antonio Goncalves](https://agoncal.teachable.com/p/ebook-practising-quarkus)
  - [Designing Hexagonal Architecture with Java: An architect's guide to building maintainable and change-tolerant applications with Java and Quarkus](https://www.amazon.com/Designing-Hexagonal-Architecture-Java-change-tolerant/dp/1801816484)
  - [Kubernetes Native Microservices with Quarkus and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices)
