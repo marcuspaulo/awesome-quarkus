@@ -170,6 +170,8 @@
 
  - [Debezium and Quarkus: Change Data Capture Patterns to Avoid Dual-Writes Problems - Alex Soto](https://www.infoq.com/articles/change-data-capture-debezium/?utm_source=email&utm_medium=java&utm_campaign=newsletter&utm_content=08232022)
 
+ - [Develop a basic rate limiter with Quarkus and Redis by Ana-Maria Mihalceanu, March 29, 2022](https://developers.redhat.com/articles/2022/03/29/develop-basic-rate-limiter-quarkus-and-redis)
+
  - [OpenTelemetry: A Quarkus Superheroes demo of observability - 
 Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-quarkus-superheroes-demo-observability)
 
