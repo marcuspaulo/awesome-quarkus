@@ -130,8 +130,24 @@
 ---
 
 ## Courses / Cursos
+  - [Quarkus Framework - Desenvolva Microserviços Supersônicos by Vinícius Pereira de Oliveira - Udemy, Aug, 2022](https://www.udemy.com/course/quarkus-framework-desenvolva-microservicos-supersonicos/)
+  
+  - [Quarkus com Panache, GraalVM, GitlabCI e AWS by - Udemy, Nataniel Paiva, Apr 2020](https://www.udemy.com/course/quarkus-com-panache-graalvm-gitlabci-e-aws/)
+  - [Arquitetura Hexagonal na prática by Nataniel Paiva - Udemy, Jun 2020](https://www.udemy.com/course/arquitetura-hexagonal-na-pratica/)
+  
+  - [2021 Quarkus Fundamentals - Guide to Get Started in 1 Hour, by Maaike van Putten, Pascal Quist - Udemy, March 2021](https://www.udemy.com/course/quarkus-get-started/)
+  
+  - [Quarkus desarrollo ágil de microservicios, GraphQL y GraalVM by Carlos Adrian Soto Botero - Udemy, Jun, 2022](https://www.udemy.com/course/desarrollo-con-quarkus-docker-y-graalvm-el-futuro-de-java/)
+  
+  - [K8s Native Java Microservices on Quarkus - 2022 Edition by Aruva Tech, Sep, 2022](https://www.udemy.com/course/k8s-native-microservices-on-quarkus/)
 
-  - [Curso de Java e Quarkus: Supersônico e Subatômico - Alura - João Victor](https://cursos.alura.com.br/course/java-supersonico-subatomico-quarkus)
+  - [Quarkus: Fundamentals by Antonio Goncalves - Pluralsight, Feb 11, 2021](https://app.pluralsight.com/library/courses/quarkus-fundamentals/table-of-contents?aid=7010a000002BWqBAAW)
+  
+  - [Accessing Relational Databases with Quarkus by Antonio Goncalves - Udemy, July 2021](https://www.udemy.com/course/quarkus-accessing-relational-databases-with-quarkus/)
+  
+  - [Aprenda Quarkus e Desenvolva API's RESTful Poderosas em Java by Dougllas Sousa - Udemy, Nov, 2021](https://www.udemy.com/course/aprenda-quarkus-e-desenvolva-apis-restful-poderosas-em-java/)
+
+   - [Starting with Quarkus by Antonio Goncalves - Udemy - July, 2021](https://www.udemy.com/course/quarkus-starting-with-quarkus/)
 
   - [Desenvolvimento Web com Quarkus - Básico - Udemy - Vinicius Ferraz](https://www.udemy.com/course/des-web-quarkus-basico/)
 
@@ -140,6 +156,8 @@
   - [Quarkus avanzado - Linkedin - Katia Aresti](https://www.linkedin.com/learning/quarkus-avanzado/conceptos-avanzados-de-quarkus-y-microservicios-java)
 
   - [Learning Quarkus - Linkedin - Frank P Moley](https://www.linkedin.com/learning/learning-quarkus)
+  
+  - [Curso de Java e Quarkus: Supersônico e Subatômico - Alura - João Victor](https://cursos.alura.com.br/course/java-supersonico-subatomico-quarkus)
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
