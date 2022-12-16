@@ -167,6 +167,8 @@
 
 - [Migrating a Spring Boot application to Quarkus by Pierre Guimon, Nov 2022](https://dev.to/pierregmn/migrating-a-spring-boot-application-to-quarkus-5ap6)
 
+- [gRPC made easy with Quarkus by F.Marchioni, Nov 14, 2022](http://www.mastertheboss.com/soa-cloud/quarkus/grpc-made-easy-with-quarkus/)
+
 - [Quarkus support for AWS Lambda SnapStart By Shaaf, Syed, Nov, 2022](https://quarkus.io/blog/quarkus-support-for-aws-lambda-snapstart/)
 
 - [Quarkus Defends REST APIs against Attack by Erik Costlow, Oct 19, 2022](https://www.infoq.com/news/2022/10/quarkus-csrf-defense/)
