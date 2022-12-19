@@ -200,6 +200,8 @@
 
  - [Develop a basic rate limiter with Quarkus and Redis by Ana-Maria Mihalceanu, March 29, 2022](https://developers.redhat.com/articles/2022/03/29/develop-basic-rate-limiter-quarkus-and-redis)
 
+ - [Overview: Developing OpenShift applications with Java and Quarkus by Red Hat, April 25, 2022](https://developers.redhat.com/learn/openshift/developing-openshift-applications-java-and-quarkus?sc_cid=7013a0000034enZAAQ)
+
  - [OpenTelemetry: A Quarkus Superheroes demo of observability - 
 Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-quarkus-superheroes-demo-observability)
 
