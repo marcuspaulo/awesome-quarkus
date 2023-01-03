@@ -70,6 +70,8 @@
 
 # Videos
  - [How to Use Java Records With Quarkus by Sebastian Daschner, Nov, 2022](https://www.youtube.com/watch?v=HcxLzrv_BCY)
+ 
+ - [Quarkus framework : is this the end of Spring Boot? by Tonnoz Tech, Nov, 2022](https://www.youtube.com/watch?v=VwOkUJjElVg)
 
  - [Ten Years After: From Java EE 6 to Quarkus and AWS Lambda by Adam Bien, Nov 7, 2022](https://www.youtube.com/watch?v=ErMDoOrzfmU)
 
