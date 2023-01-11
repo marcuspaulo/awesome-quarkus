@@ -167,6 +167,8 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Deploy do Quarkus no Fly.io by Marcus Paulo, Jan 2023](https://marcus-paulo.medium.com/deploy-do-quarkus-no-fly-io-f562b9711131)
+
 - [Migrating a Spring Boot application to Quarkus by Pierre Guimon, Nov 2022](https://dev.to/pierregmn/migrating-a-spring-boot-application-to-quarkus-5ap6)
 
 - [gRPC made easy with Quarkus by F.Marchioni, Nov 14, 2022](http://www.mastertheboss.com/soa-cloud/quarkus/grpc-made-easy-with-quarkus/)
