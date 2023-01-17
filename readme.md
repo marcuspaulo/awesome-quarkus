@@ -194,7 +194,10 @@ implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE 
  - [Creating your first cloud agnostic serverless application with java - by Helber Belmiro - September 22, 2022](https://blog.kie.org/2022/09/creating-your-first-cloud-agnostic-serverless-application-with-java.html)
  
  - [Monitoring Quarkus Applications with Dashbuilder - William Siqueira - September 6, 2022](https://blog.kie.org/2022/09/monitoring-quarkus-applications-with-dashbuilder.html)
+ 
  - [Quarkus: como crear microservicio con REST y MongoDB by Por Juan Antonio Jiménez Torres, November, 2021](https://www.adictosaltrabajo.com/2021/11/23/quarkus-como-crear-microservicio-con-rest-y-mongodb/)
+ 
+ - [Implementing Microservicilities with Quarkus and MicroProfile, InfoQ, by Alex Soto and Michael Redlich, May, 2021](https://www.infoq.com/articles/microservicilities-quarkus/) 
 
  - [Quarkus – A convincing Framework - Adesso - By Maurizio Bianchi
 ](https://www.adesso.ch/en/news/blog/quarkus-a-convincing-framework.jsp)
