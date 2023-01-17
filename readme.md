@@ -168,6 +168,8 @@
 ## Articles and Tutorials / Artigos e Tutoriais
 
 - [Deploy do Quarkus no Fly.io by Marcus Paulo, Jan 2023](https://marcus-paulo.medium.com/deploy-do-quarkus-no-fly-io-f562b9711131)
+- [Microprofile e a evolução de suas
+implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE UBERLÂNDIA, 2022](https://repositorio.ufu.br/bitstream/123456789/35231/1/MicroprofileEvolucaoSuas.pdf)
 
 - [Migrating a Spring Boot application to Quarkus by Pierre Guimon, Nov 2022](https://dev.to/pierregmn/migrating-a-spring-boot-application-to-quarkus-5ap6)
 
