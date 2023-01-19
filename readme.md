@@ -167,7 +167,16 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Fine-grained authorization for Quarkus microservices by Raffaele Spazzoli, JAN, 2023](https://developers.redhat.com/articles/2023/01/11/fine-grained-authorization-quarkus-microservices)
+
+- [Announcing dashbuilder quarkus extension, by William Siqueira - December 23, 2022](https://blog.kie.org/2022/12/announcing-dashbuilder-quarkus-extension.html)
+
 - [Deploy do Quarkus no Fly.io by Marcus Paulo, Jan 2023](https://marcus-paulo.medium.com/deploy-do-quarkus-no-fly-io-f562b9711131)
+
+- [Building Microservices with Quarkus and Kotlin by Kenneth Kogi, DEC, 2022](https://medium.com/@kogii/building-microservices-with-quarkus-and-kotlin-27af0cae2fd5)
+
+- [Measuring Java 11 Lambda cold starts with SnapStart - Part 3 Using Quarkus Framework,, by Vadym Kazulkin, Dec 21, 2022](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-3-using-quarkus-framework-4p0p)
+
 - [Microprofile e a evolução de suas
 implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE UBERLÂNDIA, 2022](https://repositorio.ufu.br/bitstream/123456789/35231/1/MicroprofileEvolucaoSuas.pdf)
 
