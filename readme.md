@@ -168,6 +168,8 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Using Quarkus to develop a multiplayer game – Chapter #1 – Initial setup by By Wanja Pernath - Open Sourcerers](https://www.opensourcerers.org/2022/10/24/using-quarkus-to-develop-a-multiplayer-game-chapter-1-initial-setup/)
+
 - [Fine-grained authorization for Quarkus microservices by Raffaele Spazzoli, JAN, 2023](https://developers.redhat.com/articles/2023/01/11/fine-grained-authorization-quarkus-microservices)
 
 - [Announcing dashbuilder quarkus extension, by William Siqueira - December 23, 2022](https://blog.kie.org/2022/12/announcing-dashbuilder-quarkus-extension.html)
