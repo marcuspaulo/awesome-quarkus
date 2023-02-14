@@ -168,6 +168,13 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [How to deploy your Quarkus application to Amazon EKS by by Sascha Moellering - AWS, Feb, 2023](https://aws.amazon.com/de/blogs/containers/how-to-deploy-your-quarkus-application-to-amazon-eks/)
+
+- [Deploy serverless Java apps with Quarkus on Azure Functions, by Microsoft, Feb, 2023](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus)
+- [Advanced Testing with Quarkus by Piotr.minkowski, Feb, 2023](https://piotrminkowski.com/2023/02/08/advanced-testing-with-quarkus/)
+
+- [DataCater uses Quarkus to make Data Streaming more accessible by By Stefan Sprenger, Fev, 2023](https://quarkus.io/blog/datacater-uses-quarkus-to-make-data-streaming-accessible/)
+
 - [Using Quarkus to develop a multiplayer game – Chapter #1 – Initial setup by By Wanja Pernath - Open Sourcerers](https://www.opensourcerers.org/2022/10/24/using-quarkus-to-develop-a-multiplayer-game-chapter-1-initial-setup/)
 
 - [Fine-grained authorization for Quarkus microservices by Raffaele Spazzoli, JAN, 2023](https://developers.redhat.com/articles/2023/01/11/fine-grained-authorization-quarkus-microservices)
