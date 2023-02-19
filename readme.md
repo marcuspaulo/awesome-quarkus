@@ -170,6 +170,8 @@
 
 - [How to deploy your Quarkus application to Amazon EKS by by Sascha Moellering - AWS, Feb, 2023](https://aws.amazon.com/de/blogs/containers/how-to-deploy-your-quarkus-application-to-amazon-eks/)
 
+- [Implementing a custom ConfigSource in Quarkus using AWS AppConfig by by Fabio Oliveira - FEB 2023](https://aws.amazon.com/blogs/mt/implementing-a-custom-configsource-in-quarkus-using-aws-appconfig-2/)
+
 - [Deploy serverless Java apps with Quarkus on Azure Functions, by Microsoft, Feb, 2023](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus)
 - [Advanced Testing with Quarkus by Piotr.minkowski, Feb, 2023](https://piotrminkowski.com/2023/02/08/advanced-testing-with-quarkus/)
 
