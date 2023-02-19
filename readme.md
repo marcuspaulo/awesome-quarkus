@@ -62,7 +62,7 @@
  - [Kubernetes Native Microservices with Quarkus and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices)
  - [Reactive Systems in Java](https://www.oreilly.com/library/view/reactive-systems-in/9781492091714/)
  - [Quarkus for Spring Developers](https://developers.redhat.com/e-books/quarkus-spring-developers)
- - [Quarkus Cookbook: Kubernetes-Optimized Java Solutions 1st Edition](https://www.amazon.com/Quarkus-Cookbook-Kubernetes-Optimized-Java-Solutions/dp/1492062650)
+ - [Quarkus Cookbook: Kubernetes-Optimized Java Solutions 1st Edition, by Alex Soto Bueno, Jason Porter - O'Reilly Media](https://www.amazon.com/Quarkus-Cookbook-Kubernetes-Optimized-Java-Solutions/dp/1492062650)
  - [Beginning Quarkus Framework: Build Cloud-Native Enterprise Java Applications and Microservices 1st ed. Edition](https://www.amazon.com/Beginning-Quarkus-Framework-Cloud-Native-Microservices/dp/1484260317)
  - [Hands-On Enterprise Java Microservices with Eclipse MicroProfile: Build and optimize your microservice architecture with Java](https://www.amazon.com/Hands-Enterprise-Microservices-Eclipse-MicroProfile/dp/1838643109)
  - [Playing with Java Microservices with Quarkus and Kubernetes](https://leanpub.com/playing-with-java-microservices-with-quarkus-and-k8s)
