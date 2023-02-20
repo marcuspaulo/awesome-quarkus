@@ -168,6 +168,8 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Express Hibernate Queries as Type-Safe Java Streams By Julia Gustafsson, FEB, 2023](https://quarkus.io/blog/jpastreamer-extension/)
+
 - [How to deploy your Quarkus application to Amazon EKS by by Sascha Moellering - AWS, Feb, 2023](https://aws.amazon.com/de/blogs/containers/how-to-deploy-your-quarkus-application-to-amazon-eks/)
 
 - [Implementing a custom ConfigSource in Quarkus using AWS AppConfig by by Fabio Oliveira - FEB 2023](https://aws.amazon.com/blogs/mt/implementing-a-custom-configsource-in-quarkus-using-aws-appconfig-2/)
@@ -186,6 +188,8 @@
 - [Deploy do Quarkus no Fly.io by Marcus Paulo, Jan 2023](https://marcus-paulo.medium.com/deploy-do-quarkus-no-fly-io-f562b9711131)
 
 - [Building Microservices with Quarkus and Kotlin by Kenneth Kogi, DEC, 2022](https://medium.com/@kogii/building-microservices-with-quarkus-and-kotlin-27af0cae2fd5)
+
+- [Quarkus Tip: Testing A Google Cloud Function, by Loic Mathieu, Dec, 2022](https://www.loicmathieu.fr/wordpress/en/informatique/quarkus-tip-tester-une-fonction-google-cloud/)
 
 - [Measuring Java 11 Lambda cold starts with SnapStart - Part 3 Using Quarkus Framework,, by Vadym Kazulkin, Dec 21, 2022](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-3-using-quarkus-framework-4p0p)
 
