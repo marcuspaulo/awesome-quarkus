@@ -168,6 +168,8 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Kubernetes-Native Development with Quarkus and Eclipse JKube By Eric Deandrea, FEB, 2023](https://quarkus.io/blog/kubernetes-native-development-with-quarkus-and-eclipse-jkube/)
+
 - [Express Hibernate Queries as Type-Safe Java Streams By Julia Gustafsson, FEB, 2023](https://quarkus.io/blog/jpastreamer-extension/)
 
 - [How to deploy your Quarkus application to Amazon EKS by by Sascha Moellering - AWS, Feb, 2023](https://aws.amazon.com/de/blogs/containers/how-to-deploy-your-quarkus-application-to-amazon-eks/)
