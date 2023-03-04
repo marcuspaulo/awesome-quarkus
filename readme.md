@@ -276,6 +276,9 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
  - [Quarkus](https://t.me/quarkus)
 
 ## Podcast
+
+ - [Quarkus Insight](https://open.spotify.com/show/2GG9zOvRaoMaKTJRzUd7WG)
+ 
  - [Hipsters Quarkus 230 - Paulo Silveira, Elder Moraes, João Victor Martins, André Breves, Maurício “Balboa” Linhares, Roberta Arcoverde](https://www.hipsters.tech/quarkus-hipsters-230/)
 
  - [Quarkus e MicroProfile com Elder Moraes da Red Hat 👒| 🎙️ Zupcast 🎧 ZUP](https://www.youtube.com/watch?v=JSgTMflg5eM)
