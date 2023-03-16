@@ -70,6 +70,12 @@
  - [Hands-On Cloud-Native Applications with Java and Quarkus](https://www.packtpub.com/product/hands-on-cloud-native-applications-with-java-and-quarkus/9781838821470)
 
 # Videos
+ - [Aprendendo Quarkus: O guia definitivo para devs backend Java (seu primeiro projeto no ar ainda hoje), by Elder Moraes, Mar, 2023](https://www.youtube.com/watch?v=vwsfBKJenvw)
+ 
+ - [Quarkus Native or JVM Mode?, by Sebastian Daschner, MAR, 2023](https://www.youtube.com/watch?v=JsiFiVnYsL4)
+ 
+ - [How To Configure Cloud-Native Quarkus Projects, by by Sebastian Daschner, MAR, 2023](https://www.youtube.com/watch?v=PJHdlzOWrlI&t=2s)
+ 
  - [How to Use Java Records With Quarkus by Sebastian Daschner, Nov, 2022](https://www.youtube.com/watch?v=HcxLzrv_BCY)
  
  - [Quarkus framework : is this the end of Spring Boot? by Tonnoz Tech, Nov, 2022](https://www.youtube.com/watch?v=VwOkUJjElVg)
@@ -167,6 +173,14 @@
   - [Curso de Java e Quarkus: Supersônico e Subatômico - Alura - João Victor](https://cursos.alura.com.br/course/java-supersonico-subatomico-quarkus)
 
 ## Articles and Tutorials / Artigos e Tutoriais
+
+- [Guide to Quarkus Funqy, by Baeldung, MAR, 2023](https://www.baeldung.com/java-quarkus-funqy)
+
+- [Think Reactive and Native With Quarkus, Kotlin, and GraphQL, by Ashok Gudise · Mar, 2023](https://dzone.com/articles/think-reactive-amp-native-with-quarkus-kotlin-amp)
+
+- [Road to Quarkus 3: Bets on the Flow API for Mutiny 2.0, Updates to Jakarta Namespace and More, by Olimpiu Pop, MAR, 2023](https://www.infoq.com/news/2023/03/road-quarkus-3/)
+
+- [Supersonic Subatomic Java with Quarkus, by Akila Weeratunga, FEB 2023](https://engineering.99x.io/supersonic-subatomic-java-with-quarkus-d736028bb286)
 
 - [Kubernetes-Native Development with Quarkus and Eclipse JKube By Eric Deandrea, FEB, 2023](https://quarkus.io/blog/kubernetes-native-development-with-quarkus-and-eclipse-jkube/)
 
