@@ -174,6 +174,20 @@
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Quarkus: Java revisited!, by Willem's Fizzy Logic, APR, 2023](https://fizzylogic.nl/2023/04/04/quarkus-java-revisited)
+
+- [Deploying a Quarkus Application to AWS Elastic Beanstalk, by Ricardo Mello, MAR 2023](https://itnext.io/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32)
+
+- [Why You Want to Code With Quarkus in 2023, by Sebastian Daschner, MAR, 2023](https://blog.sebastian-daschner.com/entries/why-code-with-quarkus)
+
+- [Deploy a Quarkus application to Azure Container Apps, by Microsoft](https://learn.microsoft.com/en-us/training/modules/deploy-java-quarkus-azure-container-app-postgres/)
+
+- [Quarkus + Angular with Keycloak — Pt1, by Ricardo Mello, MAR 2023](https://itnext.io/quarkus-with-angular-secured-with-keycloak-pt1-d1c00a4923b8)
+
+- [Quarkus + Angular with Keycloak — Pt2, by Ricardo Mello, MAR 2023](https://itnext.io/quarkus-with-angular-secured-with-keycloak-pt2-e8c1fdf7fa75)
+
+- [Quarkus + Angular with Keycloak — Pt3 Final, by by Ricardo Mello, MAR 2023](https://itnext.io/quarkus-angular-secured-with-keycloak-pt3-44a766886a66)
+
 - [Guide to Quarkus Funqy, by Baeldung, MAR, 2023](https://www.baeldung.com/java-quarkus-funqy)
 
 - [Think Reactive and Native With Quarkus, Kotlin, and GraphQL, by Ashok Gudise · Mar, 2023](https://dzone.com/articles/think-reactive-amp-native-with-quarkus-kotlin-amp)
@@ -291,6 +305,8 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
 
 ## Podcast
 
+ - [#77 Quarkus and Microservices with Holly Cummins, Happy Path Programming, By Bruce Eckel & James Ward](https://podcasters.spotify.com/pod/show/happypathprogramming/episodes/77-Quarkus-and-Microservices-with-Holly-Cummins-e212gaa/a-a66th96)
+ 
  - [Quarkus Insight](https://open.spotify.com/show/2GG9zOvRaoMaKTJRzUd7WG)
  
  - [Hipsters Quarkus 230 - Paulo Silveira, Elder Moraes, João Victor Martins, André Breves, Maurício “Balboa” Linhares, Roberta Arcoverde](https://www.hipsters.tech/quarkus-hipsters-230/)
