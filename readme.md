@@ -1,5 +1,5 @@
 <p align="center">
-   ![Quakus logo](/assets/quarkus-logo.png)
+  <img src="https://raw.githubusercontent.com/marcuspaulo/awesome-quarkus/main/assets/quarkus-logo.png">
 </p>
 
 <h1 style="text-align: center;">
