@@ -1,5 +1,6 @@
-
-![Quakus logo](/assets/quarkus-logo.png)
+<p align="center">
+   ![Quakus logo](/assets/quarkus-logo.png)
+</p>
 
 <h1 style="text-align: center;">
    <b>Awesome Quarkus</b>
