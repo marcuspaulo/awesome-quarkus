@@ -303,6 +303,7 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
 ## Telegram
  - [Quarkus-br](https://t.me/quarkus_br)
  - [Quarkus](https://t.me/quarkus)
+ - [Quarkus Español/Spanish](https://t.me/QuarkusES)
 
 ## Podcast
 
