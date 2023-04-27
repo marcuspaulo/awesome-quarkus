@@ -35,6 +35,10 @@
 
 ---
 
+# QUARKUS 3.0 has launched.
+Quarkus 3.0 continues the mission of making Java the preferred framework for Kubernetes-native development with new developer tools and improved performance. 
+[Official Documentation](https://quarkus.io/quarkus3/)
+
 # Quarkus Official Documentation
 
 - [Quarkusio](https://quarkus.io/)
