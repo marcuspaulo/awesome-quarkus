@@ -241,6 +241,8 @@ implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE 
 
 - [Quarkus support for AWS Lambda SnapStart By Shaaf, Syed, Nov, 2022](https://quarkus.io/blog/quarkus-support-for-aws-lambda-snapstart/)
 
+- [Integration Testing using Quarkus, JUnit 5, and Testcontainers. by Andres Solorzano, OCT, 2022](https://aosolorzano.medium.com/integration-testing-using-quarkus-junit-5-and-testcontainers-d72ac275a2f6)
+
 - [Quarkus Defends REST APIs against Attack by Erik Costlow, Oct 19, 2022](https://www.infoq.com/news/2022/10/quarkus-csrf-defense/)
 
 - [Save Bookmarks to Notion Database with Telegram and Quarkus by Alberto Bonacina, Oct 26, 2022](https://blog.albertobonacina.com/save-bookmarks-to-notion-database-with-telegram-and-quarkus)
