@@ -186,6 +186,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Dev services for Amazon Services, by Quarkiverse](https://quarkiverse.github.io/quarkiverse-docs/quarkus-amazon-services/dev/dev-services.html)
+
 - [Quarkus: Java revisited!, by Willem's Fizzy Logic, APR, 2023](https://fizzylogic.nl/2023/04/04/quarkus-java-revisited)
 
 - [Deploying a Quarkus Application to AWS Elastic Beanstalk, by Ricardo Mello, MAR 2023](https://itnext.io/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32)
@@ -276,6 +278,8 @@ implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE 
 - [Generate Helm charts manifests with Quarkus Helm - By Jose Carvajal - August 30, 2022](https://quarkus.io/blog/quarkus-helm/)
 
  - [Debezium and Quarkus: Change Data Capture Patterns to Avoid Dual-Writes Problems - Alex Soto](https://www.infoq.com/articles/change-data-capture-debezium/?utm_source=email&utm_medium=java&utm_campaign=newsletter&utm_content=08232022)
+
+- [Quarkus Application Using AWS DynamoDB and Localstack - By Gabriel Martins, APR, 2022](https://gasmartins.medium.com/quarkus-application-using-aws-dynamodb-and-localstack-4aa578528400)
 
  - [Develop a basic rate limiter with Quarkus and Redis by Ana-Maria Mihalceanu, March 29, 2022](https://developers.redhat.com/articles/2022/03/29/develop-basic-rate-limiter-quarkus-and-redis)
 
