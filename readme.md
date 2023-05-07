@@ -152,9 +152,12 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 ---
 
 ## Courses / Cursos
+  - [Effective Testing With Quarkus by Sebastian Daschner, APR 2023](https://www.sebastian-daschner.com/courses/effective-testing-quarkus)
+  
   - [Quarkus Framework - Desenvolva Microserviços Supersônicos by Vinícius Pereira de Oliveira - Udemy, Aug, 2022](https://www.udemy.com/course/quarkus-framework-desenvolva-microservicos-supersonicos/)
   
   - [Quarkus com Panache, GraalVM, GitlabCI e AWS by - Udemy, Nataniel Paiva, Apr 2020](https://www.udemy.com/course/quarkus-com-panache-graalvm-gitlabci-e-aws/)
+  
   - [Arquitetura Hexagonal na prática by Nataniel Paiva - Udemy, Jun 2020](https://www.udemy.com/course/arquitetura-hexagonal-na-pratica/)
   
   - [2021 Quarkus Fundamentals - Guide to Get Started in 1 Hour, by Maaike van Putten, Pascal Quist - Udemy, March 2021](https://www.udemy.com/course/quarkus-get-started/)
