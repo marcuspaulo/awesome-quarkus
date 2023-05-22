@@ -317,6 +317,9 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
 
   - [Banco do Brasil extracts Open Banking investment data with Quarkus and Kafka By Felipe Henrique Gross Windmoller](https://quarkus.io/blog/banco-do-brasil-open-banking-user-story/)
 
+# Presentation
+- [Java and GraalVM for ARMv8 Empowering loT devices through innovative solutions, by Andrea Battaglia, DEC 2020](https://speakerdeck.com/andreabattaglia/java-and-graalvm-for-armv8)
+
 ## Telegram
  - [Quarkus-br](https://t.me/quarkus_br)
  - [Quarkus](https://t.me/quarkus)
