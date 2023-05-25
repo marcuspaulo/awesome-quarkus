@@ -106,6 +106,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
   - [Kafka Content Based Routing with Quarkus, Drools, and Apache Camel by Matteo Mortari, March, 9, 2022 ](https://www.youtube.com/watch?v=nXyKM-xds2M)
 
   - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=SQDR34KoC-8)
+  -
+  - [How to schedule periodic tasks with Quarkus | Quarkus Tutorial | QUARKUS | CloudNative | Java, Giuseppe Scaramuzzino, May 2022](https://www.youtube.com/watch?v=CDG2v6qwuy0)
 
   - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=tWHdkpVagXA)
   
@@ -187,6 +189,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 ## Articles and Tutorials / Artigos e Tutoriais
 
 - [Dev services for Amazon Services, by Quarkiverse](https://quarkiverse.github.io/quarkiverse-docs/quarkus-amazon-services/dev/dev-services.html)
+
+- [Quarkus 3.0.0: A New Era for Java Development by Samuel Catalano, APR, 2023](https://medium.com/thefreshwrites/quarkus-3-0-0-a-new-era-for-java-development-30d10048d49)
 
 - [Quarkus: Java revisited!, by Willem's Fizzy Logic, APR, 2023](https://fizzylogic.nl/2023/04/04/quarkus-java-revisited)
 
