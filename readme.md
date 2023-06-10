@@ -137,7 +137,7 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
   - [How to create a QUARKUS project with code.quarkus.io | Quarkus | Cloud Native | Java Framework - Giuseppe Scaramuzzino](https://www.youtube.com/watch?v=eiDTdCR1j7I&list=PL6oD2syjfW7ADAkICQr-SQcEqsenVPfqg)
 
- - [Authentication and Authorization using JWT Token and Roles-Based Access Control | Quarkus Tutorial](https://www.youtube.com/watch?v=0FVJlSJR0Zo)
+ - [Authentication and Authorization using JWT Token and Roles-Based Access Control | Quarkus Tutorial, by Giuseppe Scaramuzzino](https://www.youtube.com/watch?v=0FVJlSJR0Zo)
 
  - [Testing Quarkus application with Junit 5, Mockito and H2 Database | Quarkus Tutorial | Java - Giuseppe Scaramuzzino ](https://www.youtube.com/watch?v=y6B8mXEv5gA)
 
