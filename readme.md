@@ -192,6 +192,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Automate your Quarkus deployment using Ansible, by Romain Pelisse, JUN 2023](https://developers.redhat.com/articles/2023/06/01/automate-your-quarkus-deployment-using-ansible?sc_cid=7013a000003Sa2FAAS)
+
 - [Dev services for Amazon Services, by Quarkiverse](https://quarkiverse.github.io/quarkiverse-docs/quarkus-amazon-services/dev/dev-services.html)
 
 - [Quarkus 3.0.0: A New Era for Java Development by Samuel Catalano, APR, 2023](https://medium.com/thefreshwrites/quarkus-3-0-0-a-new-era-for-java-development-30d10048d49)
