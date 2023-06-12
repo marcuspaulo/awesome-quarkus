@@ -75,7 +75,7 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
  - [Hands-On Cloud-Native Applications with Java and Quarkus](https://www.packtpub.com/product/hands-on-cloud-native-applications-with-java-and-quarkus/9781838821470)
 
 # Videos
- - [Quarkus Pizzas - Recursos Web - Java, by CodeShow - Júlio @faermanj, JUN, 2023](https://www.youtube.com/watch?v=gHX02cLp8Mk)
+ - [Quarkus Pizzas - Recursos Web - Java, by CodeShow - Julio Faerman, JUN, 2023](https://www.youtube.com/watch?v=gHX02cLp8Mk)
  
  - [Migrating from Quarkus 2 to Quarkus 3 by Kevin Dubois, APR, 2023](https://www.youtube.com/watch?v=rOSUF3u74j4)
  
