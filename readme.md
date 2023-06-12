@@ -77,6 +77,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 # Videos
  - [Quarkus Pizzas - Recursos Web - Java, by CodeShow - Julio Faerman, JUN, 2023](https://www.youtube.com/watch?v=gHX02cLp8Mk)
  
+ - [Quarkus 3: tudo sobre a maior release do Java supersônico e subatômico, by, Elder Moraes, JUN, 2023](https://www.youtube.com/watch?v=nRNzgomxyIo)
+ 
  - [Migrating from Quarkus 2 to Quarkus 3 by Kevin Dubois, APR, 2023](https://www.youtube.com/watch?v=rOSUF3u74j4)
  
  - [Build Java container images in SECONDS using Quarkus CLI by Kevin Dubois, APR, 2023](https://www.youtube.com/watch?v=3V4H3mwCrWs&t=1s)
