@@ -270,6 +270,8 @@ implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE 
 
 - [Service discovery using SmallRye Stork with Quarkus by Vimal Kumar - Aug 21, 2022](https://blog.knoldus.com/service-discovery-using-smallrye-stork-with-quarkus/)
 
+- [JWT verification against Amazon Cognito as an IdP Service using the Quarkus Framework, by Andres Solorzano, Aug, 2022](https://aosolorzano.medium.com/jwt-verification-against-amazon-cognito-using-java-quarkus-55f3d22456ae) 
+
  - [Quarkus with Java Virtual Threads - By piotr.minkowski - on  October 6, 2022](https://piotrminkowski.com/2022/10/06/quarkus-with-java-virtual-threads/)
 
  - [Creating your first cloud agnostic serverless application with java - by Helber Belmiro - September 22, 2022](https://blog.kie.org/2022/09/creating-your-first-cloud-agnostic-serverless-application-with-java.html)
@@ -326,6 +328,8 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
   - [Tutorial: Criando um CRUD utilizando Quarkus Java + REST + CDI + Panache, Hibernate com Postgres (Docker) + Postman](https://marcus-paulo.medium.com/tutorial-criando-um-crud-utilizando-quarkus-java-rest-cdi-panache-hibernate-com-postgres-59793e0d7162)
 
   - [Banco do Brasil extracts Open Banking investment data with Quarkus and Kafka By Felipe Henrique Gross Windmoller](https://quarkus.io/blog/banco-do-brasil-open-banking-user-story/)
+  
+  - [Securing Micro Services in Quarkus with Amazon Cognito, by Iain Porter, Oct, 2020](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
 
 # Presentation
 - [Java and GraalVM for ARMv8 Empowering loT devices through innovative solutions, by Andrea Battaglia, DEC 2020](https://speakerdeck.com/andreabattaglia/java-and-graalvm-for-armv8)
