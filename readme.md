@@ -45,6 +45,7 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 - [Github](https://github.com/quarkusio)
 - [Guides/Guias](https://quarkus.io/guides/)
 - [Quarkus get start](quarkus.io/get-started/)
+- [Quarkus User-story](https://quarkus.io/blog/tag/user-story/)
 - [Quarkus Youtube Channel](https://www.youtube.com/c/Quarkusio)
 - [Quarkus development tips](https://quarkus.io/blog/tag/development-tips/)
 - [Start Coding](https://code.quarkus.io/)
@@ -192,9 +193,17 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [A Guide to the Quarkus 3 Azure Functions Extension: Bootstrap Java Microservices with Ease, InfoQ by Daniel Oh and Erik Costlow, JUN, 2023](https://www.infoq.com/articles/azure-functions-quarkus/)
+
 - [Automate your Quarkus deployment using Ansible, by Romain Pelisse, JUN 2023](https://developers.redhat.com/articles/2023/06/01/automate-your-quarkus-deployment-using-ansible?sc_cid=7013a000003Sa2FAAS)
+  
+- [Deploy Quarkus applications directly to OpenShift using S2I, by Yashwanth Maheshwaram, JUN, 2023](https://developers.redhat.com/articles/2023/06/07/deploy-quarkus-applications-openshift-s2i?sc_cid=7013a000003SbOMAA0)
 
 - [Dev services for Amazon Services, by Quarkiverse](https://quarkiverse.github.io/quarkiverse-docs/quarkus-amazon-services/dev/dev-services.html)
+  
+- [Securing Cloud Native Microservices with Role-Based Access Control using Keycloak, by Daniel Oh, MAY, 2023](https://www.cncf.io/blog/2023/05/17/securing-cloud-native-microservices-with-role-based-access-control-using-keycloak/)
+  
+- [Contract Testing on Kubernetes with Microcks, By Piotr Minkowski, MAY, 2023](https://piotrminkowski.com/2023/05/20/contract-testing-on-kubernetes-with-microcks/)
 
 - [Quarkus 3.0.0: A New Era for Java Development by Samuel Catalano, APR, 2023](https://medium.com/thefreshwrites/quarkus-3-0-0-a-new-era-for-java-development-30d10048d49)
 
