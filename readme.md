@@ -254,7 +254,7 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 - [Quarkus Tip: Testing A Google Cloud Function, by Loic Mathieu, Dec, 2022](https://www.loicmathieu.fr/wordpress/en/informatique/quarkus-tip-tester-une-fonction-google-cloud/)
 
-- [Measuring Java 11 Lambda cold starts with SnapStart - Part 3 Using Quarkus Framework,, by Vadym Kazulkin, Dec 21, 2022](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-3-using-quarkus-framework-4p0p)
+- [Measuring Java 11 Lambda cold starts with SnapStart - Part 3 Using Quarkus Framework, by Vadym Kazulkin, Dec 21, 2022](https://dev.to/aws-builders/measuring-java-11-lambda-cold-starts-with-snapstart-part-3-using-quarkus-framework-4p0p)
 
 - [Microprofile e a evolução de suas
 implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE UBERLÂNDIA, 2022](https://repositorio.ufu.br/bitstream/123456789/35231/1/MicroprofileEvolucaoSuas.pdf)
@@ -302,9 +302,11 @@ implementações by Mauro Humberto de Oliveira Júnior, UNIVERSIDADE FEDERAL DE 
 
 - [Quarkus Application Using AWS DynamoDB and Localstack - By Gabriel Martins, APR, 2022](https://gasmartins.medium.com/quarkus-application-using-aws-dynamodb-and-localstack-4aa578528400)
 
- - [Develop a basic rate limiter with Quarkus and Redis by Ana-Maria Mihalceanu, March 29, 2022](https://developers.redhat.com/articles/2022/03/29/develop-basic-rate-limiter-quarkus-and-redis)
-
  - [Overview: Developing OpenShift applications with Java and Quarkus by Red Hat, April 25, 2022](https://developers.redhat.com/learn/openshift/developing-openshift-applications-java-and-quarkus?sc_cid=7013a0000034enZAAQ)
+   
+ - [REST API error modeling with Quarkus 2.0, by Stephen Nimmo, MAR, 2023](https://developers.redhat.com/articles/2022/03/03/rest-api-error-modeling-quarkus-20#)
+   
+ - [Develop a basic rate limiter with Quarkus and Redis by Ana-Maria Mihalceanu, March 29, 2022](https://developers.redhat.com/articles/2022/03/29/develop-basic-rate-limiter-quarkus-and-redis)
 
  - [OpenTelemetry: A Quarkus Superheroes demo of observability - 
 Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-quarkus-superheroes-demo-observability)
