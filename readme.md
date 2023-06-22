@@ -193,6 +193,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [How to monitor Quarkus native executables with JFR, by Robert Toyonaga, JUN, 2023](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
+
 - [A Guide to the Quarkus 3 Azure Functions Extension: Bootstrap Java Microservices with Ease, InfoQ by Daniel Oh and Erik Costlow, JUN, 2023](https://www.infoq.com/articles/azure-functions-quarkus/)
 
 - [Automate your Quarkus deployment using Ansible, by Romain Pelisse, JUN 2023](https://developers.redhat.com/articles/2023/06/01/automate-your-quarkus-deployment-using-ansible?sc_cid=7013a000003Sa2FAAS)
