@@ -193,6 +193,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Building a MongoDB-Powered RESTful Application With Quarkus and Eclipse JNoSQL, by Otavio Santana (DZone)](https://dzone.com/articles/building-a-mongodb-powered-restful-application-wit)
+
 - [How to monitor Quarkus native executables with JFR, by Robert Toyonaga, JUN, 2023](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
 
 - [A Guide to the Quarkus 3 Azure Functions Extension: Bootstrap Java Microservices with Ease, InfoQ by Daniel Oh and Erik Costlow, JUN, 2023](https://www.infoq.com/articles/azure-functions-quarkus/)
