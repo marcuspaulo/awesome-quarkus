@@ -193,7 +193,13 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Explore a new way of testing CDI components in Quarkus, By Martin Kouba, July, 2023](https://quarkus.io/blog/quarkus-component-test/)
+
+-[Managing Java containers with Quarkus and Podman Desktop, by Kevin Dubois, July  2023](https://developers.redhat.com/articles/2023/07/03/managing-java-containers-quarkus-and-podman-desktop#)
+
 - [Building a MongoDB-Powered RESTful Application With Quarkus and Eclipse JNoSQL, by Otavio Santana (DZone)](https://dzone.com/articles/building-a-mongodb-powered-restful-application-wit)
+
+- [How to monitor Quarkus native executables with JFR, by Robert Toyonaga, June, 2023](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
 
 - [How to monitor Quarkus native executables with JFR, by Robert Toyonaga, JUN, 2023](https://developers.redhat.com/articles/2023/06/13/how-monitor-quarkus-native-executables-jfr)
 
@@ -355,6 +361,8 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
  - [Quarkus Español/Spanish](https://t.me/QuarkusES)
 
 ## Podcast
+
+-[Learn from Java Champion Roberto Cortez: Quarkus and Spring: Cloud-Native Java Development, by Roberto Cortez and Dreamix, July 2023](https://dreamix.eu/blog/bloggers/learn-from-java-champion-roberto-cortez-quarkus-and-spring-charting-the-course-of-cloud-native-java-development)
 
  - [#77 Quarkus and Microservices with Holly Cummins, Happy Path Programming, By Bruce Eckel & James Ward](https://podcasters.spotify.com/pod/show/happypathprogramming/episodes/77-Quarkus-and-Microservices-with-Holly-Cummins-e212gaa/a-a66th96)
  
