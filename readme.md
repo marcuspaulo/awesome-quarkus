@@ -29,7 +29,7 @@
 - [Videos](#videos)
 - [Courses/Cursos](#courses--cursos)
 - [Tutorials / Tutoriais](#articles-and-tutorials--artigos-e-tutoriais)
-- [Telegram](#telegram)
+- [Telegram/Discord](#telegram)
 - [Podcast](#podcast)
 - [Newsletter](#newsletter)
 
@@ -357,7 +357,7 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
 # Presentation
 - [Java and GraalVM for ARMv8 Empowering loT devices through innovative solutions, by Andrea Battaglia, DEC 2020](https://speakerdeck.com/andreabattaglia/java-and-graalvm-for-armv8)
 
-## Telegram
+## Telegram/Discord
  - [Quarkus-br](https://t.me/quarkus_br)
  - [Quarkus](https://t.me/quarkus)
  - [Quarkus Español/Spanish](https://t.me/QuarkusES)
