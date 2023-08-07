@@ -76,6 +76,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
  - [Hands-On Cloud-Native Applications with Java and Quarkus](https://www.packtpub.com/product/hands-on-cloud-native-applications-with-java-and-quarkus/9781838821470)
 
 # Videos
+ - [Developing with Quarkus, MicroProfile, and OpenTelemetry | DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/developing-quarkus-microprofile-opentelemetry-watch-12UTC?sc_cid=7013a000003SiV9AAK)
+   
  - [Quarkus Pizzas - Recursos Web - Java, by CodeShow - Julio Faerman, JUN, 2023](https://www.youtube.com/watch?v=gHX02cLp8Mk)
  
  - [Quarkus 3: tudo sobre a maior release do Java supersônico e subatômico, by, Elder Moraes, JUN, 2023](https://www.youtube.com/watch?v=nRNzgomxyIo)
@@ -359,6 +361,7 @@ Eric Deandrea](https://developers.redhat.com/articles/2022/08/08/opentelemetry-q
  - [Quarkus-br](https://t.me/quarkus_br)
  - [Quarkus](https://t.me/quarkus)
  - [Quarkus Español/Spanish](https://t.me/QuarkusES)
+ - [Quarkus Discord](https://discord.gg/X28FWCeq)
 
 ## Podcast
 
