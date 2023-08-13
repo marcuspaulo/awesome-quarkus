@@ -102,6 +102,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
  - [Quarkus Insights #103: Debezium & Quarkus -- A Match Made in Heaven? by Quarkusio - September, 26, 2022](https://www.youtube.com/watch?v=MQR1SLJVpgM)
 
+ - [Migrating a Spring Boot app to Quarkus, challenge accepted by Jonathan Vila - Devoxx UK](https://www.youtube.com/watch?v=ROY2LNwyHDk)
+   
  - [Introduction to Quarkus: "Supersonic Subatomic Java" - Quarkusio](https://www.youtube.com/watch?v=DYcEQs-9sb0)
  
  - [Quarkus to OpenShift - Burr Sutter - August 28, 2022](https://www.youtube.com/watch?v=SvbBeP-Jw2w)
