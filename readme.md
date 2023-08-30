@@ -53,6 +53,7 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 - [Publicações/Publications](https://quarkus.io/publications/)
 - [Migration guide](https://github.com/quarkusio/quarkus/wiki/Migration-Guides)
 - [Discussions](https://github.com/quarkusio/quarkus/discussions)
+- [Red Hat build of Quarkus: Kubernetes-native Java](https://developers.redhat.com/products/quarkus/overview?sc_cid=7013a000003So3aAAC)
 
 ## Workshop
  - [Workshops Super heroes](https://quarkus.io/quarkus-workshops/super-heroes/)
