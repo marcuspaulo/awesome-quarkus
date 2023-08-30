@@ -198,6 +198,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Build and deploy a Quarkus application to OpenShift in minutes](https://developers.redhat.com/developer-sandbox/activities/build-and-deploy-a-quarkus-application-to-openshift-in-minutes?sc_cid=7013a000003SmvGAAS)
+
 - [Explore a new way of testing CDI components in Quarkus, By Martin Kouba, July, 2023](https://quarkus.io/blog/quarkus-component-test/)
 
 -[Managing Java containers with Quarkus and Podman Desktop, by Kevin Dubois, July  2023](https://developers.redhat.com/articles/2023/07/03/managing-java-containers-quarkus-and-podman-desktop#)
