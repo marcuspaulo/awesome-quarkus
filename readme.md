@@ -77,9 +77,11 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
  - [Hands-On Cloud-Native Applications with Java and Quarkus](https://www.packtpub.com/product/hands-on-cloud-native-applications-with-java-and-quarkus/9781838821470)
 
 # Videos
- - [Developing with Quarkus, MicroProfile, and OpenTelemetry | DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/developing-quarkus-microprofile-opentelemetry-watch-12UTC?sc_cid=7013a000003SiV9AAK)
+ - [Developing with Quarkus, MicroProfile, and OpenTelemetry | DevNation Tech Talk, Holly Cummins](https://developers.redhat.com/devnation/tech-talks/developing-quarkus-microprofile-opentelemetry-watch-12UTC?sc_cid=7013a000003SiV9AAK)
+ 
+ - [Pact Contract Testing for Quarkus, by Mala Gupta and Holly Cummins, AUG, 2023](https://www.youtube.com/watch?v=FHNXlOJvCJU)
 
- - [+inspiração praTi | Episódio 8: Como fazer boas conversões de DTOs em Java, by Nataniel Paiva, AGO, 2023](https://www.youtube.com/watch?v=ccAnyk4ngmc)
+ - [+inspiração praTi | Episódio 8: Como fazer boas conversões de DTOs em Java, by Nataniel Paiva, AUG, 2023](https://www.youtube.com/watch?v=ccAnyk4ngmc)
    
  - [Quarkus Pizzas - Recursos Web - Java, by CodeShow - Julio Faerman, JUN, 2023](https://www.youtube.com/watch?v=gHX02cLp8Mk)
  
