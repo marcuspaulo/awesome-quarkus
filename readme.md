@@ -78,6 +78,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 # Videos
  - [Developing with Quarkus, MicroProfile, and OpenTelemetry | DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/developing-quarkus-microprofile-opentelemetry-watch-12UTC?sc_cid=7013a000003SiV9AAK)
+
+ - [+inspiração praTi | Episódio 8: Como fazer boas conversões de DTOs em Java, by Nataniel Paiva, AGO, 2023](https://www.youtube.com/watch?v=ccAnyk4ngmc)
    
  - [Quarkus Pizzas - Recursos Web - Java, by CodeShow - Julio Faerman, JUN, 2023](https://www.youtube.com/watch?v=gHX02cLp8Mk)
  
