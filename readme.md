@@ -207,6 +207,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 - [Quarkus extensions give Java dependencies superpowers by Kevin Dubois, Sep, 2023](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
 
 - [Build and deploy a Quarkus application to OpenShift in minutes](https://developers.redhat.com/developer-sandbox/activities/build-and-deploy-a-quarkus-application-to-openshift-in-minutes?sc_cid=7013a000003SmvGAAS)
+  
+- [Introduction to gRPC with Quarkus, by Piotr Minkowski, Sep, 2023](https://piotrminkowski.com/2023/09/15/introduction-to-grpc-with-quarkus/)
 
 - [Generate AI-based Images with Quarkus and OpenAI DALL.E by Antonio Perrone, Aug, 2023](https://foojay.io/today/images-generation-with-quarkus-and-openai/)
 
