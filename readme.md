@@ -202,6 +202,8 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [When Quarkus meets Virtual Threads, By Clement Escoffier, Sep, 2023](https://quarkus.io/blog/virtual-thread-1/)
+
 - [Quarkus extensions give Java dependencies superpowers by Kevin Dubois, Sep, 2023](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
 
 - [Build and deploy a Quarkus application to OpenShift in minutes](https://developers.redhat.com/developer-sandbox/activities/build-and-deploy-a-quarkus-application-to-openshift-in-minutes?sc_cid=7013a000003SmvGAAS)
