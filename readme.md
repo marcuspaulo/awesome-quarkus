@@ -202,7 +202,17 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Quarkus extensions give Java dependencies superpowers by Kevin Dubois, Sep, 2023](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
+
 - [Build and deploy a Quarkus application to OpenShift in minutes](https://developers.redhat.com/developer-sandbox/activities/build-and-deploy-a-quarkus-application-to-openshift-in-minutes?sc_cid=7013a000003SmvGAAS)
+
+- [Generate AI-based Images with Quarkus and OpenAI DALL.E by Antonio Perrone, Aug, 2023](https://foojay.io/today/images-generation-with-quarkus-and-openai/)
+
+- [How to use Cryostat agent to profile Java workloads, by Andrew Azores, Aug, 2023](https://developers.redhat.com/articles/2023/08/15/how-use-cryostat-agent-profile-java-workloads)
+  
+- [Java Quarkus application working with IRIS by, Dmitry Maslennikov, Aug, 2023](https://community.intersystems.com/post/java-quarkus-application-working-iris)
+  
+- [Deploy a Java application with Quarkus on an Azure Kubernetes Service cluster, Jul 2023](https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-quarkus-app?tabs=az-login-terminal-bash)
 
 - [Explore a new way of testing CDI components in Quarkus, By Martin Kouba, July, 2023](https://quarkus.io/blog/quarkus-component-test/)
 
