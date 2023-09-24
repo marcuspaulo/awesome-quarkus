@@ -115,49 +115,51 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
  
  - [Quarkus to OpenShift - Burr Sutter - August 28, 2022](https://www.youtube.com/watch?v=SvbBeP-Jw2w)
 
-  - [Quarkus why, how and what by Emmanuel Bernard](https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java)
+ - [Quarkus why, how and what by Emmanuel Bernard](https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java)
    
-  - [Uploading Files With Quarkus by Sebastian Daschner - September 07, 2022](https://blog.sebastian-daschner.com/entries/uploading-files-quarkus)
+ - [Uploading Files With Quarkus by Sebastian Daschner - September 07, 2022](https://blog.sebastian-daschner.com/entries/uploading-files-quarkus)
   
-  - [Kafka Content Based Routing with Quarkus, Drools, and Apache Camel by Matteo Mortari, March, 9, 2022 ](https://www.youtube.com/watch?v=nXyKM-xds2M)
+ - [Kafka Content Based Routing with Quarkus, Drools, and Apache Camel by Matteo Mortari, March, 9, 2022 ](https://www.youtube.com/watch?v=nXyKM-xds2M)
 
-  - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=SQDR34KoC-8)
-  -
-  - [How to schedule periodic tasks with Quarkus | Quarkus Tutorial | QUARKUS | CloudNative | Java, Giuseppe Scaramuzzino, May 2022](https://www.youtube.com/watch?v=CDG2v6qwuy0)
+ - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=SQDR34KoC-8)
+ 
+ - [How to schedule periodic tasks with Quarkus | Quarkus Tutorial | QUARKUS | CloudNative | Java, Giuseppe Scaramuzzino, May 2022](https://www.youtube.com/watch?v=CDG2v6qwuy0)
 
-  - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=tWHdkpVagXA)
+ - [Secure your Quarkus Applications by Sebastien Blanc](https://www.youtube.com/watch?v=tWHdkpVagXA)
   
-  - [Quarkus in Kotlin on Kubernetes 1 - Dev Ops Coach Steve](https://www.youtube.com/watch?v=NEc8PWNKlo0)
+ - [Quarkus in Kotlin on Kubernetes 1 - Dev Ops Coach Steve](https://www.youtube.com/watch?v=NEc8PWNKlo0)
 
-  - [Kubernetes Native Spring apps on Quarkus by Georgios Andrianakis](https://www.youtube.com/watch?v=9wJm8g83vqA)
+ - [Kubernetes Native Spring apps on Quarkus by Georgios Andrianakis](https://www.youtube.com/watch?v=9wJm8g83vqA)
 
-  - [Começando a usar o QUARKUS! - RinaldoDev](https://www.youtube.com/watch?v=ZSfCjMzmrgM&t=506s)
+ - [Começando a usar o QUARKUS! - RinaldoDev](https://www.youtube.com/watch?v=ZSfCjMzmrgM&t=506s)
 
-  - [QUARKUS em PRODUÇÃO é bom MESMO? - RinaldoDev](https://www.youtube.com/watch?v=UTkYgFT62C0&t=1s)
+ - [QUARKUS em PRODUÇÃO é bom MESMO? - RinaldoDev](https://www.youtube.com/watch?v=UTkYgFT62C0&t=1s)
 
-  - [Quarkus vs Spring Boot - Performance - RinaldoDev](https://www.youtube.com/watch?v=Bw9xs2NZ-eo&t=61s)
+ - [Quarkus vs Spring Boot - Performance - RinaldoDev](https://www.youtube.com/watch?v=Bw9xs2NZ-eo&t=61s)
 
-  - [Quarkus #1: Aplicação Java disponível em 0,02s com Quarkus- Vinicius Ferraz](https://www.youtube.com/watch?v=pBc0qSLaHO8&t=1s)
+ - [Quarkus #1: Aplicação Java disponível em 0,02s com Quarkus- Vinicius Ferraz](https://www.youtube.com/watch?v=pBc0qSLaHO8&t=1s)
 
-  - [Quarkus #49: CRUD Fácil - Vinicius Ferraz](https://www.youtube.com/watch?v=HcoufbjVt9w&t=2s)
+ - [Quarkus #49: CRUD Fácil - Vinicius Ferraz](https://www.youtube.com/watch?v=HcoufbjVt9w&t=2s)
 
-  - [Quarkus (O Java na Nuvem Super Rápido) // Dicionário do Programador - Código Fonte TV](https://www.youtube.com/watch?v=ArDYOUKgY5U)
+ - [Quarkus (O Java na Nuvem Super Rápido) // Dicionário do Programador - Código Fonte TV](https://www.youtube.com/watch?v=ArDYOUKgY5U)
 
-  - [Depois de conhecer o Quarkus você não vai querer outra coisa! - Código Fonte TV](https://www.youtube.com/watch?v=i45uluuaJ0E)
+ - [Depois de conhecer o Quarkus você não vai querer outra coisa! - Código Fonte TV](https://www.youtube.com/watch?v=i45uluuaJ0E)
 
-  - [Criando uma aplicação Quarkus Java de forma bem simples - Marcus Paulo](https://www.youtube.com/watch?v=bhdWWFDmlxA)
+ - [Criando uma aplicação Quarkus Java de forma bem simples - Marcus Paulo](https://www.youtube.com/watch?v=bhdWWFDmlxA)
 
-  - [Obeservabilidade com Quarkus, Prometheus e Grafana - Nataniel Paiva Oficial](https://www.youtube.com/watch?v=WuVi0G_P3lA)
+ - [Obeservabilidade com Quarkus, Prometheus e Grafana - Nataniel Paiva Oficial](https://www.youtube.com/watch?v=WuVi0G_P3lA)
 
-  - [Keycloak + OpenID para segurança de suas aplicações e um exemplo com o Quarkus - Sou Java](https://www.facebook.com/watch/live/?ref=watch_permalink&v=268347427584450)
+ - [Keycloak + OpenID para segurança de suas aplicações e um exemplo com o Quarkus - Sou Java](https://www.facebook.com/watch/live/?ref=watch_permalink&v=268347427584450)
 
-  - [How to create a QUARKUS project with code.quarkus.io | Quarkus | Cloud Native | Java Framework - Giuseppe Scaramuzzino](https://www.youtube.com/watch?v=eiDTdCR1j7I&list=PL6oD2syjfW7ADAkICQr-SQcEqsenVPfqg)
+ - [How to create a QUARKUS project with code.quarkus.io | Quarkus | Cloud Native | Java Framework - Giuseppe Scaramuzzino](https://www.youtube.com/watch?v=eiDTdCR1j7I&list=PL6oD2syjfW7ADAkICQr-SQcEqsenVPfqg)
+
+ - [Quarkus Dev Services for Kafka Broker Automatically, by Daniel Oh, Sep, 2021](https://www.youtube.com/watch?v=z2ZceqVQ20E)
 
  - [Authentication and Authorization using JWT Token and Roles-Based Access Control | Quarkus Tutorial, by Giuseppe Scaramuzzino](https://www.youtube.com/watch?v=0FVJlSJR0Zo)
 
  - [Testing Quarkus application with Junit 5, Mockito and H2 Database | Quarkus Tutorial | Java - Giuseppe Scaramuzzino ](https://www.youtube.com/watch?v=y6B8mXEv5gA)
 
-- [Supersonic, Subatomic Java with Quarkus. Burr Sutter, Red Hat - Devoxx](https://www.youtube.com/watch?v=iJBh2NoSCKM)
+ - [Supersonic, Subatomic Java with Quarkus. Burr Sutter, Red Hat - Devoxx](https://www.youtube.com/watch?v=iJBh2NoSCKM)
 
  - [Serverless Drools in 3 steps with Kogito, Quarkus, Kubernetes and Knative! - Matteo Mortari](https://www.youtube.com/watch?v=KGXJ_bEyTmo)
 
