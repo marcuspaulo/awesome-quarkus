@@ -206,6 +206,10 @@ Quarkus 3.0 continues the mission of making Java the preferred framework for Kub
 
 ## Articles and Tutorials / Artigos e Tutoriais
 
+- [Integrate your Quarkus application with GPT4All, by Alex Soto Bueno, SEP, 2023](https://developers.redhat.com/articles/2023/09/25/integrate-your-quarkus-application-gpt4all)
+
+- [Overview: Deploy a Quarkus application to the Developer Sandbox with JetBrains IDEA, RedHat, SEP, 2023](https://developers.redhat.com/learn/java/deploy-quarkus-application-developer-sandbox-jetbrains-idea?sc_cid=7013a000003SuBuAAK)
+
 - [When Quarkus meets Virtual Threads, By Clement Escoffier, Sep, 2023](https://quarkus.io/blog/virtual-thread-1/)
 
 - [Quarkus extensions give Java dependencies superpowers by Kevin Dubois, Sep, 2023](https://developers.redhat.com/articles/2023/09/06/introduction-quarkus-extensions-java-dependencies)
